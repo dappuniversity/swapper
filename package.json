@@ -1,0 +1,19 @@
+{
+  "name": "swapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@uniswap/v3-periphery": "^1.4.3",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.12.6"
+  }
+}
